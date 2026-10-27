@@ -1,10 +1,14 @@
-# LabVIEW-Python Bridge
+# Calling Python Functions from LabVIEW
 
 A bridge enabling LabVIEW applications to call Python functions through a Python server.
 
 ## Overview
 
 This project provides a communication interface between a LabVIEW client and a Python server, allowing LabVIEW applications to execute Python functions remotely.
+
+![LabVIEW VI front panel](<images/MaP traiter_donnees front panel.png>)
+
+![LabVIEW VI diagram](<images/MaP traiter_donnees diagram.png>)
 
 ## Architecture
 

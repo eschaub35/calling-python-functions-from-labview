@@ -18,5 +18,5 @@
 	<Item Name="Launch server.vi" Type="VI" URL="../Launch server.vi"/>
 	<Item Name="Open.vi" Type="VI" URL="../Open.vi"/>
 	<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
-	<Item Name="Write Read data.vi" Type="VI" URL="../Write Read data.vi"/>
+	<Item Name="Write-Read data.vi" Type="VI" URL="../Write-Read data.vi"/>
 </Library>
