@@ -6,10 +6,10 @@ A bridge enabling LabVIEW applications to call Python functions through a Python
 
 This project provides a communication interface between a LabVIEW client and a Python server, allowing LabVIEW applications to execute Python functions remotely.
 
-![LabVIEW VI front panel](<images/MaP traiter_donnees front panel.png>)
-
-![LabVIEW VI diagram](<images/MaP traiter_donnees diagram.png>)
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="Images/MaP traiter_donnees diagram.png" alt="LabVIEW VI diagram" width="49%">
+  <img src="Images/MaP traiter_donnees front panel.png" alt="LabVIEW VI front panel" width="49%">
+</div>
 ## Architecture
 
 - **LabVIEW client:** Sends requests to the Python server.
